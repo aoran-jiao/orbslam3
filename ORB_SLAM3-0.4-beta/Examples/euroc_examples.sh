@@ -1,5 +1,5 @@
 #!/bin/bash
-pathDatasetEuroc='/home/jack/Downloads' #Example, it is necesary to change it by the dataset path
+pathDatasetEuroc='/home/data/EuRoC-MAV' #Example, it is necesary to change it by the dataset path
 
 #------------------------------------
 # Monocular Examples
